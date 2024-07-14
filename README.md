@@ -6,7 +6,6 @@
 
 ---
 
-**From Kitchen Maestro to Code Chef** 👨‍🍳 → 👨‍💻
 
 Seasoned restaurant manager turned full stack developer with a passion for crafting delicious user experiences. I bring 7 years of leadership, customer service, and problem-solving expertise to the table (pun intended).
 
@@ -51,7 +50,9 @@ Seasoned restaurant manager turned full stack developer with a passion for craft
 
 ## 📈 GitHub Kitchen
 
-[Your GitHub stats images here]  (Showcase your most impressive contributions!)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SmileNattakit&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SmileNattakit&theme=dark&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SmileNattakit&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
