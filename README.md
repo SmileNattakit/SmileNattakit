@@ -1,7 +1,7 @@
 # 👨‍🍳 Nattakit Rattanakeha - Full Stack Flavor 🍔
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nattakit-rattanakeha/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://portfolio-steel-zeta-86.vercel.app/) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://https://portfolio-nattakit-dev.vercel.app/) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nattakit.rattanakeha@gmail.com)
 
 ---
