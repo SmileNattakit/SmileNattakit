@@ -80,8 +80,11 @@
 
 <h3>💼 Freelance Web Developer  <i>Sep 2024 – Present</i></h3>
 
-- Built **Next Property** — a property management dashboard with Next.js, Turso, and Drizzle ORM (private client repo)
-- Delivered property CRUD, leads pipeline, appointments, role-based auth, public listings
+Provide backend, web automation, and landing page services for Thai clients:
+- Web scraping and Puppeteer automation for data collection tasks
+- Landing pages and web applications with Next.js, Express, and MongoDB
+- Backend API development and third-party integrations
+- Property management platform with Next.js, Turso, Drizzle ORM (private client repo)
 
 ---
 
