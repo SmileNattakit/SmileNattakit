@@ -66,17 +66,14 @@
 
 <h3>🏢 Backend Developer @ RealSmart Co., Ltd.  <i>Sep 2024 – Present</i></h3>
 
-**RealCyber** — Government cybersecurity platform for domain monitoring and threat detection.
-- Built and maintained Express/MongoDB backends serving REST APIs for domain monitoring, bulk import/export, and crawler integration
-- Integrated Puppeteer-based web crawlers processing millions of raw records daily
-- Implemented Bull/Redis background job queues for async processing and cron pipelines
-- Worked with AI/OCR services for website content analysis and malicious site detection
-- Worked within a cross-functional engineering organization of 20+ spanning backend, crawler, AI, and operations teams
-
-**AFNC-DMC** — Government case-management system with multi-step review workflow.
-- Built full backend in a 2-person team (colleague handled frontend)
-- Implemented case workflow APIs, Excel import/export, and duplicate detection
-- Developed scheduled sync pipeline to RealCyber platform via cron jobs
+Build and maintain backend systems for government digital service platforms under outsourcing contracts.
+- Express/MongoDB REST APIs for domain monitoring, bulk import/export, and crawler integration
+- Puppeteer-based web crawlers processing millions of raw records daily
+- Bull/Redis job queues for async processing, cron pipelines, and background workers
+- AI/OCR service integration for website content analysis and threat detection
+- Government case-management platform: multi-step workflow, Excel import/export, duplicate detection, scheduled sync pipelines connecting multiple systems
+- YOLO object detection training pipeline for brand logo monitoring on social media — dataset collection, bounding box annotation, training data organization
+- Worked within a cross-functional team of 20+ spanning backend, crawler, AI, and operations
 
 <h3>💼 Freelance Web Developer  <i>Sep 2024 – Present</i></h3>
 
