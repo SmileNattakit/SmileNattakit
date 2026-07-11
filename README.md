@@ -71,7 +71,7 @@
 - Integrated Puppeteer-based web crawlers processing millions of raw records daily
 - Implemented Bull/Redis background job queues for async processing and cron pipelines
 - Worked with AI/OCR services for website content analysis and malicious site detection
-- Collaborated in an 8-person dev team
+- Worked within a cross-functional engineering organization of 20+ spanning backend, crawler, AI, and operations teams
 
 **AFNC-DMC** — Government case-management system with multi-step review workflow.
 - Built full backend in a 2-person team (colleague handled frontend)
