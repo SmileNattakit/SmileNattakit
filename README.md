@@ -67,12 +67,9 @@
 <h3>🏢 Backend Developer @ RealSmart Co., Ltd.  <i>Sep 2024 – Present</i></h3>
 
 Build and maintain backend systems for government digital service platforms under outsourcing contracts.
-- Express/MongoDB REST APIs for domain monitoring, bulk import/export, and crawler integration
-- Puppeteer-based web crawlers processing millions of raw records daily
-- Bull/Redis job queues for async processing, cron pipelines, and background workers
-- AI/OCR service integration for website content analysis and threat detection
-- Government case-management platform: multi-step workflow, Excel import/export, duplicate detection, scheduled sync pipelines connecting multiple systems
-- YOLO object detection training pipeline for brand logo monitoring on social media — dataset collection, bounding box annotation, training data organization
+- **Threat monitoring platform:** Express/MongoDB REST APIs for web and social media crawling to detect illegal content — Puppeteer crawlers processing millions of records daily, Bull/Redis queues, AI/OCR integration
+- **Brand intelligence system:** YOLO object detection pipeline for brand logo monitoring on social media — dataset collection, bounding box annotation, training data preparation
+- Government case-management system: multi-step workflow, Excel import/export, duplicate detection, scheduled sync pipelines connecting multiple platforms
 - Worked within a cross-functional team of 20+ spanning backend, crawler, AI, and operations
 
 <h3>💼 Freelance Web Developer  <i>Sep 2024 – Present</i></h3>
