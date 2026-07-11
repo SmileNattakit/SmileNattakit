@@ -30,7 +30,7 @@
   </tr>
   <tr>
     <td><b>Data & AI</b></td>
-    <td>S3 · Glue · Athena · Data Lake (Raw → Curated → Analysis) · LLM/OCR Integration</td>
+    <td>AWS S3 · Glue · Athena · Data Lake (Raw → Curated → Analysis) · LLM/OCR Integration</td>
   </tr>
   <tr>
     <td><b>DevOps</b></td>
@@ -64,43 +64,30 @@
 
 ## 💼 Experience
 
-<table>
-  <tr>
-    <td><b>Backend Developer</b> @ RealSmart Co., Ltd.</td>
-    <td>Sep 2024 – Present</td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      • Express/MongoDB backends for government cybersecurity and case-management platforms<br>
-      • Domain monitoring, bulk import/export, Puppeteer crawler integration<br>
-      • Bull/Redis job queues, background workers, cron pipelines<br>
-      • Data lake proof-of-concept with AWS Glue, Athena, and S3
-    </td>
-  </tr>
-  <tr>
-    <td><b>Freelance Web Developer</b></td>
-    <td>Sep 2024 – Present</td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      • Built a property management dashboard with Next.js, Turso, Drizzle ORM (private client repo)
-    </td>
-  </tr>
-</table>
+<h3>🏢 Backend Developer @ RealSmart Co., Ltd.  <i>Sep 2024 – Present</i></h3>
 
-> 🏢 Company projects (RealCyber, AFNC-DMC) are under NDA — not publicly available on GitHub.
+**RealCyber** — Government cybersecurity platform for domain monitoring and threat detection.
+- Built and maintained Express/MongoDB backends serving REST APIs for domain monitoring, bulk import/export, and crawler integration
+- Integrated Puppeteer-based web crawlers processing millions of raw records daily
+- Implemented Bull/Redis background job queues for async processing and cron pipelines
+- Worked with AI/OCR services for website content analysis and malicious site detection
+- Collaborated in an 8-person dev team
+
+**AFNC-DMC** — Government case-management system with multi-step review workflow.
+- Built full backend in a 2-person team (colleague handled frontend)
+- Implemented case workflow APIs, Excel import/export, and duplicate detection
+- Developed scheduled sync pipeline to RealCyber platform via cron jobs
+
+<h3>💼 Freelance Web Developer  <i>Sep 2024 – Present</i></h3>
+
+- Built **Next Property** — a property management dashboard with Next.js, Turso, and Drizzle ORM (private client repo)
+- Delivered property CRUD, leads pipeline, appointments, role-based auth, public listings
 
 ---
 
-## 📊 GitHub Stats
+<h2>📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MilesNattakit&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilesNattakit&layout=compact&theme=dark&hide_border=true" width="48%">
-</p>
-
----
-
-<p align="center">
-  <sub>⚡ Vibe Developer · Async-friendly · Open to freelance/contract work</sub>
 </p>
