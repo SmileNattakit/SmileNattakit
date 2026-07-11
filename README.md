@@ -1,100 +1,106 @@
-<h1>Nattakit Rattanakeha - Full Stack Developer</h1>
-
-<p>
-  <a href="https://www.linkedin.com/in/nattakit-rattanakeha/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://portfolio-nattakit-dev.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="mailto:nattakit.rattanakeha@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
+<h1 align="center">👋 Miles — Nattakit Rattanakeha</h1>
+<p align="center">
+  <b>Backend · Web Automation · Data Pipeline · Applied AI</b>
+  <br>
+  📍 Bangkok, Thailand · UTC+7
+  <br>
+  <a href="https://www.linkedin.com/in/nattakit-rattanakeha/">LinkedIn</a>
 </p>
 
-<hr>
+---
 
-<p>Full Stack Developer with a robust background in developing responsive web applications and managing teams. With recent intensive training from Generation Thailand Bootcamp and extensive hands-on experience, I specialize in the MERN stack and delivering secure, scalable solutions.</p>
+## 🛠 Tech Stack
 
-<p><strong>Currently seeking Full Stack Developer roles specializing in the MERN stack.</strong></p>
+<table>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>Node.js · Express.js · REST APIs · JWT · Server Actions</td>
+  </tr>
+  <tr>
+    <td><b>Automation</b></td>
+    <td>Puppeteer · Web Scraping · Screenshot Pipeline · Anti-bot Handling</td>
+  </tr>
+  <tr>
+    <td><b>Queue & Jobs</b></td>
+    <td>Bull (Redis) · Background Workers · Cron · Retry with Backoff</td>
+  </tr>
+  <tr>
+    <td><b>Database</b></td>
+    <td>MongoDB · Mongoose · Turso (libSQL) · Drizzle ORM</td>
+  </tr>
+  <tr>
+    <td><b>Data & AI</b></td>
+    <td>S3 · Glue · Athena · Data Lake (Raw → Curated → Analysis) · LLM/OCR Integration</td>
+  </tr>
+  <tr>
+    <td><b>DevOps</b></td>
+    <td>Docker · Docker Compose · Linux · Vercel · GitHub Actions</td>
+  </tr>
+  <tr>
+    <td><b>Testing</b></td>
+    <td>Jest · Supertest · Vitest · mongodb-memory-server</td>
+  </tr>
+  <tr>
+    <td><b>Frontend (Freelance)</b></td>
+    <td>Next.js · React · HTML · CSS · Vercel</td>
+  </tr>
+</table>
 
-<hr>
+---
 
-<h2>My Skill Set</h2>
-
-<ul>
-  <li>
-    <strong>Mastery of the MERN Stack:</strong>
-    <a href="#"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"></a>
-    <a href="#"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"></a>
-    <a href="#"><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"></a>
-    <a href="#"><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js"></a>
-    <a href="#"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"></a>
-  </li>
-  <li>
-    <strong>Front-End Expertise:</strong>
-    <a href="#"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>
-    <a href="#"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>
-    <a href="#"><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"></a>
-  </li>
-  <li>
-    <strong>Version Control & Collaboration:</strong>
-    <a href="#"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
-    <a href="#"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  </li>
-  <li>
-    <strong>Core Competencies:</strong>
-    <ul>
-      <li>RESTful APIs</li>
-      <li>JWT Authentication</li>
-      <li>State Management</li>
-      <li>Agile (Scrum, Kanban)</li>
-      <li>Team Leadership & Problem-Solving</li>
-    </ul>
-  </li>
-</ul>
-
-<hr>
-
-<h2>Featured Projects</h2>
-
-<ul>
-  <li>
-    <strong>JobSquare:</strong> A MERN stack talent platform, equipped with JWT authentication and Jotai state management.
-    <a href="project-link-here" target="_blank">View Project</a>
-  </li>
-  <li>
-    <strong>Voyage:</strong> A travel booking platform featuring user authentication, payment integration, and RESTful APIs.
-    <a href="project-link-here" target="_blank">View Project</a>
-  </li>
-</ul>
-
-<hr>
-
-<h2>GitHub Stats</h2>
+## 📌 Featured Project
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=SmileNattakit&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SmileNattakit&theme=dark&hide_border=false" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmileNattakit&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+  <a href="https://github.com/MilesNattakit/domain-watch-api">
+    <b>🔗 domain-watch-api</b>
+  </a>
+  <br>
+  URL monitoring API with Puppeteer screenshots, Bull/Redis job queue, MongoDB storage, and Docker deployment.
+  <br>
+  <i>Express · Puppeteer · Bull · MongoDB · Docker · 11 tests</i>
 </p>
 
-<hr>
+---
 
-<h2>Education & Certification</h2>
+## 💼 Experience
 
-<ul>
-  <li><strong>Junior Software Developer Program (2024)</strong> - Generation Thailand</li>
-  <li><strong>Typescript For Javascript Developer (2024)</strong> - Skillane</li>
-  <li><strong>B.S. in Culinary Technology and Service (2017)</strong> - Suan Dusit University</li>
-</ul>
+<table>
+  <tr>
+    <td><b>Backend Developer</b> @ RealSmart Co., Ltd.</td>
+    <td>Sep 2024 – Present</td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      • Express/MongoDB backends for government cybersecurity and case-management platforms<br>
+      • Domain monitoring, bulk import/export, Puppeteer crawler integration<br>
+      • Bull/Redis job queues, background workers, cron pipelines<br>
+      • Data lake proof-of-concept with AWS Glue, Athena, and S3
+    </td>
+  </tr>
+  <tr>
+    <td><b>Freelance Web Developer</b></td>
+    <td>Sep 2024 – Present</td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      • Built a property management dashboard with Next.js, Turso, Drizzle ORM (private client repo)
+    </td>
+  </tr>
+</table>
 
-<hr>
+> 🏢 Company projects (RealCyber, AFNC-DMC) are under NDA — not publicly available on GitHub.
 
-<h2>Let's Connect!</h2>
+---
 
-<p>Interested in collaborating or hiring? Feel free to reach out via LinkedIn or email.</p>
+## 📊 GitHub Stats
 
-<p>
-  <img src="https://visitcount.itsvg.in/api?id=SmileNattakit&icon=0&color=0" alt="Profile Views">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MilesNattakit&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilesNattakit&layout=compact&theme=dark&hide_border=true" width="48%">
+</p>
+
+---
+
+<p align="center">
+  <sub>⚡ Vibe Developer · Async-friendly · Open to freelance/contract work</sub>
 </p>
